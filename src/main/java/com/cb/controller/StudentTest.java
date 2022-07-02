@@ -10,5 +10,7 @@ public class StudentTest {
 
         System.out.println("第三次");
 
+        System.out.println("第六次");
+
     }
 }
